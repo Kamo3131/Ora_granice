@@ -1,0 +1,3 @@
+/workspaces/helloworld/Or/build/CMakeFiles/rebuild_cache.dir
+/workspaces/helloworld/Or/build/CMakeFiles/edit_cache.dir
+/workspaces/helloworld/Or/build/CMakeFiles/Global.dir

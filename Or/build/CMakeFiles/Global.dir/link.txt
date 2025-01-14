@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Global.dir/granicev2.cpp.o CMakeFiles/Global.dir/src/character.cpp.o CMakeFiles/Global.dir/src/stats.cpp.o -o Global 

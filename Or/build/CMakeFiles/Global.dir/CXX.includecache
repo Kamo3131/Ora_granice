@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/character.h
+stats.h
+../include/stats.h
+string
+-
+
+../include/stats.h
+
+/workspaces/helloworld/Or/granicev2.cpp
+stats.h
+/workspaces/helloworld/Or/stats.h
+character.h
+/workspaces/helloworld/Or/character.h
+iostream
+-
+
